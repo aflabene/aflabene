@@ -33,4 +33,4 @@ I am a CS student currently in the foundation year at the University of Roehampt
 ### 📊 GitHub Stats:
 *(Optional: These dynamic cards show your progress automatically)*
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=(seu-usuario-aqui)&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aflabene&show_icons=true&theme=radical)
