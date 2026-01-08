@@ -28,9 +28,13 @@ I am a CS student currently in the foundation year at the University of Roehampt
 - 👯 I’m looking to collaborate on beginner projects to gain experience
 - 📫 How to reach me: aflabene@outlook.com
 
----
+<!--
 
 ### 📊 GitHub Stats:
 *(Optional: These dynamic cards show your progress automatically)*
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aflabene&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aflabene&layout=compact&theme=radical)
+
+-->
